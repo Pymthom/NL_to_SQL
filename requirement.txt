@@ -1,0 +1,12 @@
+faiss-cpu
+groq
+langchain-groq
+PyPDF2
+langchain-google-genai
+langchain
+streamlit
+langchain_community
+python-dotenv
+pypdf
+google-cloud-aiplatform>=1.38
+google-ai-generativelanguage>=0.6.18,<0.7.0
